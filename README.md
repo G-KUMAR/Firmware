@@ -19,8 +19,8 @@ This repository holds the [PX4 Pro](http://px4.io) flight control solution for d
 ## Building from source steps
 
 * Download the firmware source code from [My Personalised Code](https://github.com/G-KUMAR/Firmware) or from [Pixhawk Source](https://github.com/PX4/Firmware)
-* Install python-jinja2 using 'sudo apt-get install python-jinja2' 
-* Change to Firmware directory and run 'make posix jmavsim'
+* Install python-jinja2 using `sudo apt-get install python-jinja2` 
+* Change to Firmware directory and run `make posix jmavsim`
 
 
 ## PX4 Users
